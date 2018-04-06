@@ -1,15 +1,19 @@
 
 # Front End Boilerplate
-HtmlConcepts project- Created using html-boilerplate
+# HtmlConcepts project- Created using html-boilerplate
 
 # installation instructions
 # Getting Started
 # Required! Gulp installed 
+```
 $ npm install -g gulp@3.9.0
 $ npm install -g create-html-project
+```
 
 # Project creation using html-boilerplate
+```
 $ create-html-project HtmlConcepts
+```
 
 
 ```
