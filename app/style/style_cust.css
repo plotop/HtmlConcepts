@@ -1,5 +1,5 @@
-* {
-    text-align: right;
+h2 {
+    text-align: center;
 }
 
 body {
@@ -7,39 +7,35 @@ body {
     background-size: cover;
     color: aqua;
 }
-h2,p:hover {
+p {
     color: #A43741 ;
     text-align: center;
     border: 5px solid rgba(164, 55, 65,0.5);
     cursor: pointer;
     
 }
-h2 {
-    color: #A43741 ;
-    text-align: center;
-    border: none;
-    cursor: pointer;
-    
+img {
+    float: left;
 }
-h2 p {
-    
-    text-align: left;
-    
-    
-}
-h2>p {
-    
+footer {
+    clear: 'both';
     text-align: center;
-    
-    
 }
 p { 
-    color: yellowgreen !important;
+    /* text-decoration: underline; 
+    text-decoration: line-through;
+    text-transform: uppercase;*/
     
+    font-style: italic;
+    font-weight: bold;
+    font-size: 150%;
+    font-family: 'Hi Melody', cursive; 
+
 }
-p,li {
+li {
     color: burlywood;
-  
+    list-style: none;
+    display: inline-block;
 }
 
 li {
