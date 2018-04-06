@@ -1,4 +1,5 @@
 node_modules/
+app/script/main.js
 .sass-cache
 .DS_Store
 dist/
