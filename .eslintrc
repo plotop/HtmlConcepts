@@ -5,4 +5,5 @@ rules:
   object-curly-spacing: [ error, always ]
   react/prop-types: off
   space-before-function-paren: off
+  semi: [2, always]
 
